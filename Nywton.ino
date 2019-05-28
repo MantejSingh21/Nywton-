@@ -1,4 +1,4 @@
-/* Developed by Mantej Singh and Anton Karve for Singapore IBM Hackathon 2018
+/* Developed by Mantej Singh and Anton Karve for Singapore IBM Hackathon 2018 */
 #include <SparkFun_ADXL345.h>         // SparkFun ADXL345 Library
 
 /*********** COMMUNICATION SELECTION ***********/
